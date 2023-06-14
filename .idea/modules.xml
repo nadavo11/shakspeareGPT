@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Unsupervised_Musical_Notes_Seperation-master.iml" filepath="$PROJECT_DIR$/.idea/Unsupervised_Musical_Notes_Seperation-master.iml" />
+      <module fileurl="file://$USER_HOME$/pyGPT/.idea/pyGPT.iml" filepath="$USER_HOME$/pyGPT/.idea/pyGPT.iml" />
+    </modules>
+  </component>
+</project>
